@@ -1,6 +1,5 @@
-# MUSICMATE 프로젝트
+# React+Vite+Supabase+Prettier+ESLint 초기 설정 프로젝트
 
-프로젝트 초기 설정
 vite, supabase.js, prettier, eslint, react-icon 설치
 kind-tiger 설치
 
