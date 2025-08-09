@@ -14,4 +14,6 @@ ESLINT 규칙 조정
       "react/react-in-jsx-scope": "off",
 ```
 
-.gitignore 세팅
+### .gitignore 세팅
+
+### husky staged lint 적용
